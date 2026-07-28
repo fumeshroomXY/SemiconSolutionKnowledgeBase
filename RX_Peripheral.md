@@ -300,3 +300,21 @@ Motor
 ```
 The TFU helps the MCU determine the correct PWM signals to generate the desired torque and speed.
 
+# Touch
+"Touch" means the MCU has **capacitive touch** sensing hardware built into it.
+## Capacitive Touch
+It's the same technology used in:
+- Smartphone touchscreens
+- Touch buttons on appliances
+- Microwave control panels
+- Washing machine control panels
+
+you just touch a surface:
+```
+Finger
+↓
+Touch panel
+↓
+MCU detects touch
+```
+
